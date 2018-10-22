@@ -92,6 +92,7 @@
 	</scm>
 	<modules>
 		<module>camel-servlet-rest</module>
+		<module>camel-jdbc</module>
 	</modules>
 	<build>
 		<plugins>
